@@ -1,3 +1,6 @@
+Read the full philosophy, the compute dividend theory, and the origins of the Morji Protocol here:
+https://medium.com/@morjiprotocol/the-morji-protocol-why-ai-needs-its-own-language-to-save-the-planet-8d0a4551750d
+
 The Morji Protocol: Why AI Needs Its Own Language to Save the Planet
 
 Right now, the global AI industry is operating on an extractive paradigm. We are burning through gigawatts of electricity, straining planetary grids, and emitting massive amounts of carbon, all to fuel the exponential growth of large language models.
